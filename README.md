@@ -23,7 +23,7 @@
 - [Redesigning Spotify concerts](https://medium.com/swlh/redesigning-spotify-concerts-c6fc66774379) (Feb 2019)
 - [How Bird & Lime can build moats](https://blog.usejournal.com/how-bird-lime-can-build-moats-17438816abbf) (Sept 2018)
 - [Vertical farming is Amazon's next big step](https://blog.usejournal.com/vertical-farming-is-amazons-next-bold-step-d3cc9b3292d1) (Nov 2017)
-- [Why AI consciousness is doomed (Aug 2016)](https://medium.com/@lakshayakula/why-ai-consciousness-is-doomed-4e1fec659b38)
+- [Why AI consciousness is doomed](https://medium.com/@lakshayakula/why-ai-consciousness-is-doomed-4e1fec659b38) (Aug 2016)
 
 ### 📫  Contact me
 
