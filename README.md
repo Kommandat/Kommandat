@@ -1,4 +1,6 @@
-### Hi there 👋
+![Github Header](https://user-images.githubusercontent.com/12615164/119375280-9ec1b080-bc88-11eb-91cb-05e05610d64b.gif)
+
+### Hi 👋, I'm [Lakshay](https://myinitialsare.la/) (he/him)!
 
 <!--
 **Kommandat/Kommandat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
