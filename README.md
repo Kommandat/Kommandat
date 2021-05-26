@@ -1,12 +1,14 @@
 ![Lakshay Akula Profile Header](https://user-images.githubusercontent.com/12615164/119376177-aa61a700-bc89-11eb-9792-64701bd8c86a.gif)
 
-## Hi, I'm [Lakshay](https://myinitialsare.la/)! <img src="https://raw.githubusercontent.com/Kommandat/Kommandat/master/wave.gif" width="30px">
+# Hi, I'm [Lakshay](https://myinitialsare.la/)! <img src="https://raw.githubusercontent.com/Kommandat/Kommandat/master/wave.gif" width="30px">
 
-### ⭐ Featured projects 
+
+
+## ⭐ Featured projects 
 - [Penrose-Moiré](https://github.com/Kommandat/penrose-moire) — Try it out at [penrosemoire.com](https://www.penrosemoire.com/)! Interact with Moiré patterns of Penrose tilings (inspired by Roger Penrose's [real-life demonstration](https://youtu.be/cvWF_Q5-Kt8))
 - [Seasonality analysis using Fourier transforms](https://github.com/Kommandat/seasonality-fourier-analysis) — Jupyter notebooks that analyze seasonal patterns in data using Fourier transforms
 
-### Technologies & tools
+## Technologies & tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -16,7 +18,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=2bbc8a)
 
-### ✍️ Writing
+## ✍️ Writing
 - [Analyzing seasonality with Fourier transforms using Python & SciPy](https://towardsdatascience.com/how-to-add-fourier-terms-to-your-regression-seasonality-analysis-using-python-scipy-99a94d3ae51) (June 2020)
 - [How to add Fourier terms to your regression analysis using Python & SciPy](https://towardsdatascience.com/analyzing-seasonality-with-fourier-transforms-using-python-scipy-bb46945a23d3) (Oct 2020)
 - [How to scrape Zillow data for free without writing any code](https://medium.com/fortune-for-future/how-to-scrape-zillow-data-for-free-without-writing-any-code-be2ac698e604) (Mar 2021)
@@ -25,7 +27,7 @@
 - [Vertical farming is Amazon's next big step](https://blog.usejournal.com/vertical-farming-is-amazons-next-bold-step-d3cc9b3292d1) (Nov 2017)
 - [Why AI consciousness is doomed](https://medium.com/@lakshayakula/why-ai-consciousness-is-doomed-4e1fec659b38) (Aug 2016)
 
-### 📫  Contact me
+## 📫  Contact me
 
 <img href="https://www.linkedin.com/in/lakula/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  <img href="https://medium.com/@lakshayakula" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">   <img href="https://twitter.com/lakshay_acoola" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white">
 
