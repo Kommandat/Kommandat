@@ -4,7 +4,7 @@
 
 ## ⭐ Featured projects 
 - [Penrose-Moiré](https://github.com/Kommandat/penrose-moire) — Try it out at [penrosemoire.com](https://www.penrosemoire.com/)! Interact with Moiré patterns of Penrose tilings (inspired by Roger Penrose's [real-life demonstration](https://youtu.be/cvWF_Q5-Kt8))
-- [Seasonality analysis using Fourier transforms](https://github.com/Kommandat/seasonality-fourier-analysis) — Jupyter notebooks that analyze seasonal patterns in data using Fourier transforms
+- [Seasonality analysis using Fourier transforms](https://github.com/Kommandat/seasonality-fourier-analysis) — Jupyter notebooks that analyze seasonal patterns in data using Fourier transforms (to accompany these articles — [Part 1](https://towardsdatascience.com/how-to-add-fourier-terms-to-your-regression-seasonality-analysis-using-python-scipy-99a94d3ae51) & [2](https://towardsdatascience.com/analyzing-seasonality-with-fourier-transforms-using-python-scipy-bb46945a23d3)) 
 
 ## Technologies & tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
