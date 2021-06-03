@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=2bbc8a)
 
-## ✍️ Writing
+## ✍️ Writings
 - [20+ helpful Python syntax patterns for coding interviews](https://towardsdatascience.com/19-helpful-python-syntax-patterns-for-coding-interviews-3704c15b758f) (May 2021)
 - [Analyzing seasonality with Fourier transforms using Python & SciPy](https://towardsdatascience.com/how-to-add-fourier-terms-to-your-regression-seasonality-analysis-using-python-scipy-99a94d3ae51) (June 2020)
 - [How to add Fourier terms to your regression analysis using Python & SciPy](https://towardsdatascience.com/analyzing-seasonality-with-fourier-transforms-using-python-scipy-bb46945a23d3) (Oct 2020)
