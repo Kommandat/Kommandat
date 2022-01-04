@@ -29,7 +29,9 @@
 
 ## 📫  Contact me
 
-<img href="https://www.linkedin.com/in/lakula/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  <img href="https://medium.com/@lakshayakula" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">   <img href="https://twitter.com/lakshay_acoola" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white">
+[<img href="https://www.linkedin.com/in/lakula/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lakula/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@lakshayakula)
+[<img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/lakshay_acoola)
 
 <!--
 **Kommandat/Kommandat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
